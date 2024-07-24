@@ -6,7 +6,7 @@ import random
 
 def start_screen(stdscr):
     stdscr.clear()
-    stdscr.addstr("Welcome To The Typotest")
+    stdscr.addstr("Welcome To The Typotest 101")
     stdscr.addstr("\nPress any keys to begin")
     stdscr.refresh()
     stdscr.getkey()
